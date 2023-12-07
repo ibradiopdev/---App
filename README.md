@@ -1,16 +1,21 @@
+# +-App for Learning basic Operations
 # state_of_widget
 
 A new Flutter project.
 
-## Getting Started
+Bienvenue dans mon projet Flutter dédié à l'apprentissage des mathématiques de manière interactive, spécialement conçu pour les élèves débutants. Cette application a été créée pour simplifier les additions et les soustractions, offrant une alternative ludique aux méthodes traditionnelles.
 
-This project is a starting point for a Flutter application.
+Fonctionnalités Clés
 
-A few resources to get you started if this is your first Flutter project:
+    ➕ & ➖ Boutons interactifs pour les additions et les soustractions.
+    🔄 Bouton de remise à zéro pour recommencer.
+    🎨 Interface utilisateur minimaliste pour une expérience d'apprentissage optimale.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Comment Utiliser l'Application
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Ajout/Soustraction : Utilisez les boutons "+1" et "-1" pour effectuer des additions et des soustractions respectivement.
+    Remise à Zéro : Appuyez sur le bouton "Remettre à 0" pour réinitialiser le compteur.
+
+Inspiration
+
+Ce projet s'inspire du démo Flutter 'Counter'. En adaptant cette démo, j'ai résolu un problème concret dans le contexte éducatif, créant une application simple et efficace.
